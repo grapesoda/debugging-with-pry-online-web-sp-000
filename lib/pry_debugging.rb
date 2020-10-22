@@ -1,4 +1,5 @@
-def plus_two(num,2)
+def plus_two(num)
 	puts num + 2
 end
 
+puts num + 2
